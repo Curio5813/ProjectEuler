@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="Update file">
-      <change afterPath="$PROJECT_DIR$/problem-0009.py" afterDir="false" />
+    <list default="true" id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="Project Euler - Problem 0009 - Special Pythagorean triplet">
+      <change afterPath="$PROJECT_DIR$/problem-0010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.problem-0009">
+  <component name="RunManager" selected="Python.problem-0010">
     <configuration name="Python 3.10" type="PythonConfigurationType" factoryName="Python">
       <module name="ProjectEuler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,27 +55,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="problem-0005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectEuler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-0005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,21 +147,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="problem-0010" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEuler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-0010.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Python 3.10" />
-      <item itemvalue="Python.problem-0005" />
       <item itemvalue="Python.problem-0006" />
       <item itemvalue="Python.problem-0007" />
       <item itemvalue="Python.problem-0008" />
       <item itemvalue="Python.problem-0009" />
+      <item itemvalue="Python.problem-0010" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.problem-0010" />
         <item itemvalue="Python.problem-0009" />
         <item itemvalue="Python.problem-0008" />
         <item itemvalue="Python.problem-0007" />
         <item itemvalue="Python.problem-0006" />
-        <item itemvalue="Python.problem-0005" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +258,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657648927046</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update file">
+      <created>1657650678862</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657650678862</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Project Euler - Problem 0009 - Special Pythagorean triplet">
+      <created>1657651028557</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657651028557</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,6 +296,7 @@
     <MESSAGE value="Project Euler - Problem 0007 - 1001st prime" />
     <MESSAGE value="Project Euler - Problem 0008 - Largest Product in a Series" />
     <MESSAGE value="Update file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update file" />
+    <MESSAGE value="Project Euler - Problem 0009 - Special Pythagorean triplet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Euler - Problem 0009 - Special Pythagorean triplet" />
   </component>
 </project>
