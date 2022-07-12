@@ -52,11 +52,10 @@ def highlyDivisibleTriangularNumber():
                 if d not in f and f[k] * f[j] <= num[0] and num[0] % d == 0:
                     f.append(d)
         if len(f) > 500:
-            print(f)
-            return num[0]
-    div = 2
-    f = [1]
-    num = []
+            return print(num[0])
+        div = 2
+        f = [1]
+        num = []
 
 
 highlyDivisibleTriangularNumber()
