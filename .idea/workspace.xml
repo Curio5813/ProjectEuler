@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="Update File">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/max_path_sum_01_test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-0018.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maximum_path_sum I.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-0015.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem-0015.py" afterDir="false" />
+    <list default="true" id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="Refactoring code&#10;&#10;trying to do the best as possible to code improvement.">
+      <change afterPath="$PROJECT_DIR$/max_path_sum_01.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -304,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657653535103</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Refactoring code&#10;&#10;trying to do the best as possible to code improvement.">
+      <created>1657755868002</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657755868002</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,6 +334,7 @@
     <MESSAGE value="Project Euler - Problem 0010 - Summation of primes" />
     <MESSAGE value="Project Euler - Problem 0012 - Highly divisible triangular number" />
     <MESSAGE value="Update File" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update File" />
+    <MESSAGE value="Refactoring code&#10;&#10;trying to do the best as possible to code improvement." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring code&#10;&#10;trying to do the best as possible to code improvement." />
   </component>
 </project>
