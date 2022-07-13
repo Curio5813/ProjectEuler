@@ -17,7 +17,7 @@ def latticePaths():
     d = 20
     a = 1_000_000_000
     b = 1_000_000_000_000
-    comb = factorial(d + d) / (factorial(d) * factorial(d + d - d))
+    comb = factorial(d + d) / (factorial(d) * factorial(d))
     if a <= comb < b:
         return print(f'{(int(comb)/a):.2f} bilhões de rooutas')
 
