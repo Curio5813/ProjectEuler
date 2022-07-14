@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="Refactoring code&#10;&#10;trying to do the best as possible to code improvement.">
-      <change afterPath="$PROJECT_DIR$/max_path_sum_01.csv" afterDir="false" />
+    <list default="true" id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="Updating Files">
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem-0018.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem-0018.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,15 +35,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/mfg0914/Pessoal/Coding/Python/ProjectEuler",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mfg0914/Pessoal/Coding/Python/ProjectEuler&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -176,11 +178,11 @@
     </configuration>
     <list>
       <item itemvalue="Python.Python 3.10" />
-      <item itemvalue="Python.problem-0018" />
+      <item itemvalue="Python.problem-0012" />
       <item itemvalue="Python.problem-0014" />
       <item itemvalue="Python.problem-0015" />
       <item itemvalue="Python.problem-0016" />
-      <item itemvalue="Python.problem-0012" />
+      <item itemvalue="Python.problem-0018" />
     </list>
     <recent_temporary>
       <list>
@@ -306,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657755868002</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Updating Files">
+      <created>1657756216485</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1657756216485</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -335,6 +344,7 @@
     <MESSAGE value="Project Euler - Problem 0012 - Highly divisible triangular number" />
     <MESSAGE value="Update File" />
     <MESSAGE value="Refactoring code&#10;&#10;trying to do the best as possible to code improvement." />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring code&#10;&#10;trying to do the best as possible to code improvement." />
+    <MESSAGE value="Updating Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating Files" />
   </component>
 </project>

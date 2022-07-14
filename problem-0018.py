@@ -54,14 +54,11 @@ def maximumPathSumI():
             l1[i][k] = int(l1[i][k])
     maior = l1[0][0]
     l.append(maior)
-    print(l1)
-    print(len(l1))
-    t = len(l1)
     p = 2 ** (t - 1)
     print(p)
     while num < p:
         for i in range(1, len(l1)):
-            for k in range(n, len(l1[i])):
+            for k in range(0, len(l1[i])):
                 if k >= len(l1[i]) - 1:
                     break
                 if l1[i][k] > l1[i][k + 1]:
