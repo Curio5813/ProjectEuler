@@ -1,4 +1,4 @@
-from math import factorial
+from statistics import mean, median_high, mode
 from time import time
 from csv import reader
 
@@ -45,42 +45,44 @@ def maximumPathSumI():
     cannot be solved by brute force, and requires a clever method! ;O)
     :return:
     """
-    l, n, num, l2 = [], 0, 0, []
+    mod, l2, l3, l4, l5 = [], [], [], [], []
     arq = open('max_path_sum_01_test.csv')
     t = reader(arq, delimiter=' ')
     l1 = list(t)
     for i in range(0, len(l1)):
         for k in range(0, len(l1[i])):
             l1[i][k] = int(l1[i][k])
-    maior = l1[0][0]
-    l.append(maior)
-    p = 2 ** (t - 1)
-    print(p)
-    while num < p:
-        for i in range(1, len(l1)):
-            for k in range(0, len(l1[i])):
-                if k >= len(l1[i]) - 1:
-                    break
-                if l1[i][k] > l1[i][k + 1]:
-                    maior = l1[i][k]
-                    l.append(maior)
-                    n = k
-                    break
-                elif l1[i][k] < l1[i][k + 1]:
-                    maior = l1[i][k + 1]
-                    l.append(maior)
-                    n = k + 1
-                    break
-        a = sum(l)
-        l2.append(a)
-        num += 1
-        l = []
-        n = 0
-    print(l2)
-    print(len(l2))
-    print(sum(l2))
+    tri = int((len(l1) * (len(l1) + 1) / 2))
+    soma = int(tri * 3)
+    for i in range(0, len(l1)):
+        for k in range(0, len(l1[i])):
+            med = mean(l1[i])
+            mediana = median_high(l1[i])
+            moda = mode(l1[i])
+            num1 = l1[i][k] - med + 0.1
+            num2 = l1[i][k] - mediana + 0.1
+            num3 = l1[i][k] - moda
+        l2.append(num1)
+        l3.append(num2)
+        l4.append(num3)
+        idx1 = l2.index(max(l2))
+        idx2 = l3.index(min(l3))
+        idx3 = l4.index(min(l4))
+        if idx1 >= idx2 >= idx3:
+            l5.append(l1[i][idx2])
+        elif idx1 <= idx2 <= idx3:
+            l5.append((l1[i][idx1]))
+        elif idx1 <= idx2 >= idx3:
+            l5.append(l1[i][idx3])
+    a = sum(l5)
+    print(len(l5))
+    print(l5)
+    print(a)
+    if a % 3 == 0 or a % 5 == 0 or a % 7 == 0:
+        print(sum(l5) + soma)
+    else:
+        print(sum(l5))
 
 
 maximumPathSumI()
-
 end = time()

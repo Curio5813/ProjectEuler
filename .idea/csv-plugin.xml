@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/max_path_sum_01_test.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
