@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="Uploading files&#10;&#10;Problem 18 and 27 are not resolved yet.">
-      <change afterPath="$PROJECT_DIR$/problem-0020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-0021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-0022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-0027.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="Uploading files&#10;&#10;Problem 18 and 27 are not resolved yet." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -352,7 +346,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657886897034</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Uploading files&#10;&#10;Problem 18 and 27 are not resolved yet.">
+      <created>1657887058563</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1657887058563</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Uploading files&#10;&#10;Problem 18 and 27 are not resolved yet.">
+      <created>1657887076621</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1657887076621</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -384,6 +392,7 @@
     <MESSAGE value="Updating Files" />
     <MESSAGE value="Working in refactoring code" />
     <MESSAGE value="Updating files" />
+    <MESSAGE value="Uploading files" />
     <MESSAGE value="Uploading files&#10;&#10;Problem 18 and 27 are not resolved yet." />
     <option name="LAST_COMMIT_MESSAGE" value="Uploading files&#10;&#10;Problem 18 and 27 are not resolved yet." />
   </component>
