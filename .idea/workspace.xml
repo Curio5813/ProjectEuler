@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="Updating Files">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+    <list default="true" id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="Working in refactoring code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/max_path_sum_01_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/max_path_sum_01_test.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/problem-0018.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem-0018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657761087011</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Working in refactoring code">
+      <created>1657787951090</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1657787951090</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -354,6 +360,7 @@
     <MESSAGE value="Update File" />
     <MESSAGE value="Refactoring code&#10;&#10;trying to do the best as possible to code improvement." />
     <MESSAGE value="Updating Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating Files" />
+    <MESSAGE value="Working in refactoring code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working in refactoring code" />
   </component>
 </project>

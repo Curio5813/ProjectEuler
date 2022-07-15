@@ -3,14 +3,12 @@ from statistics import median, mode
 
 def test():
     l = [8, 5, 9, 3, 3]
-    l.sort()
+    l2 = l.copy()
+    l2.sort()
     print(l)
-    for i in range(0, len(l)):
-        print(mode(l))
-        break
+    print(l2)
+    print(median(l))
+    print(median(l2))
 
 
 test()
-
-moda = mode([1, 1, 1, 3, 3, 2])
-print(moda)

@@ -1,10 +1,9 @@
-from statistics import mean, median_high, mode
+from statistics import mean, median, mode
 from time import time
 from csv import reader
 
+
 start = time()
-
-
 def maximumPathSumI():
     """
     Maximum path sum I
@@ -45,44 +44,30 @@ def maximumPathSumI():
     cannot be solved by brute force, and requires a clever method! ;O)
     :return:
     """
-    mod, l2, l3, l4, l5 = [], [], [], [], []
-    arq = open('max_path_sum_01_test.csv')
+    l2, l3, n1, n2, n3, soma, cont = [], [], 0, 1, 1, 0, 0
+    arq = open('max_path_sum_01.csv')
     t = reader(arq, delimiter=' ')
     l1 = list(t)
     for i in range(0, len(l1)):
         for k in range(0, len(l1[i])):
             l1[i][k] = int(l1[i][k])
-    tri = int((len(l1) * (len(l1) + 1) / 2))
-    soma = int(tri * 3)
-    for i in range(0, len(l1)):
-        for k in range(0, len(l1[i])):
-            med = mean(l1[i])
-            mediana = median_high(l1[i])
-            moda = mode(l1[i])
-            num1 = l1[i][k] - med + 0.1
-            num2 = l1[i][k] - mediana + 0.1
-            num3 = l1[i][k] - moda
-        l2.append(num1)
-        l3.append(num2)
-        l4.append(num3)
-        idx1 = l2.index(max(l2))
-        idx2 = l3.index(min(l3))
-        idx3 = l4.index(min(l4))
-        if idx1 >= idx2 >= idx3:
-            l5.append(l1[i][idx2])
-        elif idx1 <= idx2 <= idx3:
-            l5.append((l1[i][idx1]))
-        elif idx1 <= idx2 >= idx3:
-            l5.append(l1[i][idx3])
-    a = sum(l5)
-    print(len(l5))
-    print(l5)
-    print(a)
-    if a % 3 == 0 or a % 5 == 0 or a % 7 == 0:
-        print(sum(l5) + soma)
-    else:
-        print(sum(l5))
+            l2.append(l1[i][k])
+    print(l2)
+    comb = int(2 ** 15 / 2)
+    while cont <= comb:
+        for i in range(n1, len(l2)):
+            for k in range(n2, len(l2), n3):
+                soma += l2[k]
+            l3.append(soma)
+            soma = 0
+            n2 += 1
+            n3 += 1
+            n1 = 0
+        cont += 1
+    print(l3)
+    print(min(l3))
 
 
 maximumPathSumI()
 end = time()
+print(f'{(end - start):.2f}')
