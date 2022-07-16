@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="Uploading files and refactoring files">
-      <change afterPath="$PROJECT_DIR$/problem-0032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-0036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-0037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-0041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-0042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-0047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-0048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-0052.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+    <list default="true" id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="Uploading and refactoring files">
+      <change afterPath="$PROJECT_DIR$/problem-0050.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
@@ -57,7 +49,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.problem-0052">
+  <component name="RunManager" selected="Python.problem-0050">
     <configuration name="Python 3.10" type="PythonConfigurationType" factoryName="Python">
       <module name="ProjectEuler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,27 +63,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="problem-0042" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectEuler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-0042.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,6 +105,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-0048.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="problem-0050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEuler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-0050.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +178,7 @@
     </configuration>
     <list>
       <item itemvalue="Python.Python 3.10" />
-      <item itemvalue="Python.problem-0042" />
+      <item itemvalue="Python.problem-0050" />
       <item itemvalue="Python.problem-0047" />
       <item itemvalue="Python.problem-0048" />
       <item itemvalue="Python.problem-0052" />
@@ -194,11 +186,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.problem-0050" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.problem-0052" />
         <item itemvalue="Python.problem-0048" />
         <item itemvalue="Python.problem-0047" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.problem-0042" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657896690578</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Uploading and refactoring files">
+      <created>1657976510271</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1657976510271</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -421,6 +420,7 @@
     <MESSAGE value="Uploading files&#10;&#10;Problem 18 and 27 are not resolved yet." />
     <MESSAGE value="Uploading files" />
     <MESSAGE value="Uploading files and refactoring files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploading files and refactoring files" />
+    <MESSAGE value="Uploading and refactoring files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploading and refactoring files" />
   </component>
 </project>

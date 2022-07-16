@@ -1,10 +1,7 @@
-from operator import add
-from operator import mul
-from functools import reduce
+soma = 0
 
-l = [1, 2, 3, 4, 5]
-print(reduce(add, l))
-print(reduce(mul, l))
+for i in range(0, 100 + 1):
+    for k in range(1, 100_000 + 1):
+        soma += k
 
-
-
+print(soma)
