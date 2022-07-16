@@ -1,13 +1,10 @@
+from operator import add
+from operator import mul
+from functools import reduce
 
+l = [1, 2, 3, 4, 5]
+print(reduce(add, l))
+print(reduce(mul, l))
 
-target = 200
-coins = [1, 2, 5, 10, 20, 50, 100, 200]
-ways = [1] + [0]*target
-
-for coin in coins:
-    for i in range(coin, target+1):
-        ways[i] += ways[i-coin]
-
-print("Ways to make change =", ways[target])
 
 
