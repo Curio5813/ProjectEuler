@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="Refactoring code of the problem 50 from the Project Euler.">
+    <list default="true" id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="Updating files.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,9 +176,9 @@
     </configuration>
     <list>
       <item itemvalue="Python.Python 3.10" />
+      <item itemvalue="Python.problem-0050" />
       <item itemvalue="Python.problem-0047" />
       <item itemvalue="Python.problem-0048" />
-      <item itemvalue="Python.problem-0050" />
       <item itemvalue="Python.problem-0052" />
       <item itemvalue="Python.test" />
     </list>
@@ -391,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657994236055</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Updating files.">
+      <created>1658709932736</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1658709932736</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -428,6 +434,7 @@
     <MESSAGE value="Uploading files and refactoring files" />
     <MESSAGE value="Uploading and refactoring files" />
     <MESSAGE value="Refactoring code of the problem 50 from the Project Euler." />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring code of the problem 50 from the Project Euler." />
+    <MESSAGE value="Updating files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating files." />
   </component>
 </project>
