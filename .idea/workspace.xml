@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="Updating files.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2167130a-9966-4800-8ec3-308cbbf265ee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ProjectEuler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem-0005.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem-0005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate.csh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate.fish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,423 +27,26 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Bpx6YbcbA2IC5McEqRmFSobW1d" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2D5nKSVSdtoUpHIWyTJao8vXVX2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/mfg0914/Pessoal/Coding/Python/ProjectEuler&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.problem-0050">
-    <configuration name="Python 3.10" type="PythonConfigurationType" factoryName="Python">
-      <module name="ProjectEuler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.10" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="problem-0047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectEuler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-0047.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="problem-0048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectEuler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-0048.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="problem-0050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectEuler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-0050.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="problem-0052" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectEuler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-0052.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjectEuler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.Python 3.10" />
-      <item itemvalue="Python.problem-0050" />
-      <item itemvalue="Python.problem-0047" />
-      <item itemvalue="Python.problem-0048" />
-      <item itemvalue="Python.problem-0052" />
-      <item itemvalue="Python.test" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.problem-0050" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.problem-0052" />
-        <item itemvalue="Python.problem-0048" />
-        <item itemvalue="Python.problem-0047" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="aabfab23-0dad-45a7-afc4-edafcd9d734b" name="Changes" comment="" />
-      <created>1657616652577</created>
+      <changelist id="2167130a-9966-4800-8ec3-308cbbf265ee" name="Changes" comment="" />
+      <created>1659997748992</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1657616652577</updated>
+      <updated>1659997748992</updated>
     </task>
-    <task id="LOCAL-00001" summary="Movendo arquivos e atualizando outros">
-      <created>1657617741839</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1657617741839</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Project Euler&#10;&#10;Problema 0002 - Even Fibonacci Numbers">
-      <created>1657618424502</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1657618424502</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Project Euler - Problem 0003 - Largest prime factor">
-      <created>1657639420048</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1657639420048</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Project Euler - Problem 0004 - Largest palindrome product">
-      <created>1657640323549</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1657640323549</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Project Euler - Problem 0005 - Smallest Multiple">
-      <created>1657643932473</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1657643932473</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Project Euler - Problem 0006 - Sum square difference">
-      <created>1657646469720</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1657646469720</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Project Euler - Problem 0007 - 1001st prime">
-      <created>1657648161335</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1657648161335</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Project Euler - Problem 0008 - Largest Product in a Series">
-      <created>1657648815048</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1657648815048</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Update file">
-      <created>1657648927045</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1657648927046</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Update file">
-      <created>1657650678862</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1657650678862</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Project Euler - Problem 0009 - Special Pythagorean triplet">
-      <created>1657651028557</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1657651028557</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Project Euler - Problem 0010 - Summation of primes">
-      <created>1657651727921</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1657651727921</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Project Euler - Problem 0012 - Highly divisible triangular number">
-      <created>1657652769458</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1657652769458</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Update File">
-      <created>1657653535103</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1657653535103</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Refactoring code&#10;&#10;trying to do the best as possible to code improvement.">
-      <created>1657755868002</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1657755868002</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Updating Files">
-      <created>1657756216485</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1657756216485</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Updating Files">
-      <created>1657761087011</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1657761087011</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Working in refactoring code">
-      <created>1657787951090</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1657787951090</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Updating files">
-      <created>1657876418160</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1657876418160</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Updating files">
-      <created>1657877170223</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1657877170223</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Uploading files&#10;&#10;Problem 18 and 27 are not resolved yet.">
-      <created>1657886897034</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1657886897034</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Uploading files&#10;&#10;Problem 18 and 27 are not resolved yet.">
-      <created>1657887058563</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1657887058563</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Uploading files&#10;&#10;Problem 18 and 27 are not resolved yet.">
-      <created>1657887076621</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1657887076621</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Uploading files&#10;&#10;Problem 18 and 27 are not resolved yet.">
-      <created>1657887356859</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1657887356859</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Uploading files and refactoring files">
-      <created>1657896690578</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1657896690578</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Uploading and refactoring files">
-      <created>1657976510271</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1657976510271</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Refactoring code of the problem 50 from the Project Euler.">
-      <created>1657994236055</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1657994236055</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Updating files.">
-      <created>1658709932736</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1658709932736</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Updating files.">
-      <created>1658930734541</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1658930734541</updated>
-    </task>
-    <option name="localTasksCounter" value="30" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Movendo arquivos e atualizando outros" />
-    <MESSAGE value="Project Euler&#10;&#10;Problema 0002 - Even Fibonacci Numbers" />
-    <MESSAGE value="Project Euler - Problem 0003 - Largest prime factor" />
-    <MESSAGE value="Project Euler - Problem 0004 - Largest palindrome product" />
-    <MESSAGE value="Project Euler - Problem 0005 - Smallest Multiple" />
-    <MESSAGE value="Project Euler - Problem 0006 - Sum square difference" />
-    <MESSAGE value="Project Euler - Problem 0007 - 1001st prime" />
-    <MESSAGE value="Project Euler - Problem 0008 - Largest Product in a Series" />
-    <MESSAGE value="Update file" />
-    <MESSAGE value="Project Euler - Problem 0009 - Special Pythagorean triplet" />
-    <MESSAGE value="Project Euler - Problem 0010 - Summation of primes" />
-    <MESSAGE value="Project Euler - Problem 0012 - Highly divisible triangular number" />
-    <MESSAGE value="Update File" />
-    <MESSAGE value="Refactoring code&#10;&#10;trying to do the best as possible to code improvement." />
-    <MESSAGE value="Updating Files" />
-    <MESSAGE value="Working in refactoring code" />
-    <MESSAGE value="Updating files" />
-    <MESSAGE value="Uploading files&#10;&#10;Problem 18 and 27 are not resolved yet." />
-    <MESSAGE value="Uploading files" />
-    <MESSAGE value="Uploading files and refactoring files" />
-    <MESSAGE value="Uploading and refactoring files" />
-    <MESSAGE value="Refactoring code of the problem 50 from the Project Euler." />
-    <MESSAGE value="Updating files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating files." />
   </component>
 </project>

@@ -1,14 +1,8 @@
 def smallestMultiple():
     """
-    2520 is the smallest number that can be divided by each of the
-    numbers from 1 to 10 without any remainder.
-
-    What is the smallest positive number that is evenly divisible
-    by all of the numbers from 1 to 20?
-
-    :return:
     This function return the smallest number that can be divided from 1
     to 20 without any remainder.
+    :return:
     """
     cont = 0
     for i in range(2520, 500_000_000 + 1, 20):
