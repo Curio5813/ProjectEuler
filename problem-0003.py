@@ -12,7 +12,7 @@ def largestPrimeFactor():
         if n % d == 0:
             n /= d
         else:
-          d += 1
+            d += 1
     print(d)
 
 
