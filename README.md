@@ -16,4 +16,3 @@ Solved problems from the ProjectEuler.net website and posted here should not be 
 Marcos Glasner - [https://github.com/Curio5813/ProjectEuler](https://github.com/Curio5813)
 
 marcosglasner@gmail.com
-
