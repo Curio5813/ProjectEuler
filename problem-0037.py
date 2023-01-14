@@ -56,5 +56,3 @@ truncatablePrimes(generatePrimes())
 
 end = time()
 print(f'{(end - start):.2f}')
-print("")
-print("It's all folks!")
