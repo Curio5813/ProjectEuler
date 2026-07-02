@@ -1,4 +1,4 @@
-#!/home/marcos/Coding/Python/ProjectEuler/venv/bin/python
+#!/home/marcos/Coding/Python/env/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
