@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14f348b1-42f3-4d85-99c7-4edb23c5f7df" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ProjectEuler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectEuler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip-3.10" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip-3.10" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip3.10" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip3.10" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/wheel" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/wheel" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/wheel-3.10" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/wheel-3.10" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/wheel3" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/wheel3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/wheel3.10" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/wheel3.10" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,26 +36,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Python.ProjectEuler.executor": "Run",
-    "Python.problem-0001.executor": "Run",
-    "Python.problem-0002.executor": "Run",
-    "Python.unname.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/marcos/Computacao/Python/ProjectEuler",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Python.ProjectEuler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem-0001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem-0002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unname.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/marcos/Computacao/Python/Personal&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,7 +71,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678988175134</updated>
-      <workItem from="1783020686463" duration="1567000" />
+      <workItem from="1783020686463" duration="1755000" />
+      <workItem from="1783022645945" duration="3000" />
+      <workItem from="1783022729973" duration="158000" />
+      <workItem from="1783023682325" duration="6000" />
+      <workItem from="1783023713646" duration="12000" />
     </task>
     <servers />
   </component>
